@@ -563,10 +563,12 @@ img::-moz-selection {
     outline-offset: -5px;
     -moz-outline-radius: 5px;
     margin: 0px;
+    min-height: 360px;
 }
 .img-plat{
     width: 100%;
     height: auto;
+    max-height: 200px;
     position: relative;
 }
 #logo-brand{
