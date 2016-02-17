@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2dec9ccb-0cde-4dc8-ab34-3d02da24185c" name="rahmanieddy.esy.es" url="http://31.170.164.76">
+        <fileTransfer host="31.170.164.76" port="21" username="u252245150">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
